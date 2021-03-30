@@ -1,0 +1,11 @@
+name: randomSnippets
+
+environment:
+  sdk: ">=2.13.0-68.0.dev <3.0.0"
+
+dependencies:
+  bloc: ^7.0.0
+
+analyzer:
+  enable-experiment:
+    - non-nullable
